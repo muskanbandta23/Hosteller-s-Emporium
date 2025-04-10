@@ -1,0 +1,65 @@
+[
+  {
+    "UserId": 1,
+    "Email": "mridul1940.be22@chitkara.edu.in",
+    "Name": "Mridul Gupta",
+    "Password": "$2a$08$yCQzmFPpdSpEPsPptqcSsOvoeftHsdbVeUiDFnT4trKPeY5/ik3Fe",
+    "Contact": "000000000000"
+  },
+  {
+    "UserId": 2,
+    "Email": "kirti@chitkara.edu.in",
+    "Name": "Kirti ",
+    "Password": "$2a$08$k3V6/gbsLT0xYsms2AA44Obo7VRbzXMteGmanrmJSn1SbgIHo.Zcy",
+    "Contact": "000000000"
+  },
+  {
+    "UserId": 3,
+    "Email": "nishtha1994@chitkara.edu.in",
+    "Name": "Nishtha",
+    "Password": "$2a$08$a5rjmEfv72ZGUH4k0lY7xOmk/HCimE8LKDwf2/PAqlmByrlEbQD5i",
+    "Contact": "00000000000"
+  },
+  {
+    "UserId": 4,
+    "Email": "muskan1946.be22@chitkara.edu.in",
+    "Name": "Muskan",
+    "Password": "$2a$08$jsdrLiPnmVX2lom29ACsqOHlKLf8Rlk9FgWYseZ2C.G8I/XpyhKvW",
+    "Contact": "000000000"
+  },
+  {
+    "UserId": 5,
+    "Email": "mridul1927.be22@chitkara.edu.in",
+    "Name": "Mridul Gupta",
+    "Password": "$2a$08$iy.H0afVUUnXHzT/yphEgOfjKkiC0oejNYthkXSS5CXdTqWRqTgNe",
+    "Contact": "9876543210"
+  },
+  {
+    "UserId": 6,
+    "Email": "Mridul1940.be22@chitkara.edu.in",
+    "Name": "Mridul",
+    "Password": "$2a$08$TPuKCuqDc9mEycE6QLTf.uVIiwzmM2huK56y/9mSvui60L1nYQx36",
+    "Contact": "1"
+  },
+  {
+    "UserId": 7,
+    "Email": "anand@chitkara.edu.in",
+    "Name": "Anand",
+    "Password": "$2a$08$GC3K423UyPtdWduqeuT6bunPMAm9sL9x1XJl8kuj9WzF.xKUPPRs6",
+    "Contact": "121"
+  },
+  {
+    "UserId": 8,
+    "Email": "S1@gmail.com",
+    "Name": "Student1",
+    "Password": "$2a$08$4SDnRFblBO6AVMSEANOe4eg8cA7IEZVvfXcx7KL1heBGp1QI5Nhc.",
+    "Contact": "9876543210"
+  },
+  {
+    "UserId": 9,
+    "Email": "s@gmail.com",
+    "Name": "Student",
+    "Password": "$2a$08$ToWLR6zIomX4PBdEcVIug.qQyFJbYpPuK.AgcolzQIIoG/mPTcKHy",
+    "Contact": "1234567890"
+  }
+]
